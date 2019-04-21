@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\player\ControlBarco.cs">
+    <Files>
+      <File FileName="Assets\scripts\paracaidas\InstanciadorParacaidas.cs" Line="25" Column="35" />
+      <File FileName="Assets\scripts\paracaidas\ControlParacaidas.cs" Line="6" Column="2" />
+      <File FileName="Assets\scripts\IA tiburon\ControlTiburon.cs" Line="25" Column="12" />
+      <File FileName="Assets\scripts\player\ControlBarco.cs" Line="96" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
